@@ -1803,8 +1803,8 @@ hr {
 }
 
 .contact-section .contact-form .form-submit #contact-submit.success {
-  background-color: #28a745 !important;
-  border-color: #28a745 !important;
+  background-color: aqua !important;
+  border-color: aqua !important;
 }
 
 .contact-section .contact-form .form-submit #contact-submit.error {
@@ -1819,7 +1819,7 @@ hr {
 }
 
 .contact-section .contact-form .form-submit .contact-feedback.success {
-  color: #28a745;
+  color: aqua;
 }
 
 .contact-section .contact-form .form-submit .contact-feedback.error {

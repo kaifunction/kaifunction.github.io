@@ -39,3 +39,35 @@
 .home-area .fixed-wrapper .social-icons i.icon:hover {
   color: aqua;
 }
+
+
+
+/* About me page */
+.info-section .info-content .content-subtitle{
+  color: aqua;
+}
+
+.lightbox-wrapper .lightbox-content .section-heading.page-heading>.animated-bar{
+  background-color: aqua;
+}
+
+.info-section .info-content .content-info .single-info a{
+  color: aqua;
+}
+
+.info-section .info-content .btn {
+  background-color: aqua !important;
+  font-weight: 600;
+  color: #000000 !important;
+  /* border: 1px solid aqua; */
+}
+.info-section .info-content .btn:hover {
+  background-color: #fff !important;
+  color: rgb(0, 0, 0) !important;
+  border: 1px solid #e6e6e6 !important;
+}
+
+
+.services-section .single-service .service-icon {
+  color: aqua;
+}
