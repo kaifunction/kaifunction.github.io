@@ -8,3 +8,34 @@
   */
 
 /*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+
+.navbar .navbar-nav .nav-link {
+  color: #e6e6e6;
+  font-size: 15px;
+  padding: 0;
+  letter-spacing: 1px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: aqua;
+  font-weight: bolder;
+  letter-spacing: 1.2px;
+}
+
+
+
+
+/* homepage 中间的可变文字 */
+.is-visible {
+  color: aqua;
+}
+
+
+.home-area .fixed-wrapper .social-icons i.icon {
+  font-size: 23px;
+  color: #f3f3f3;
+}
+
+.home-area .fixed-wrapper .social-icons i.icon:hover {
+  color: aqua;
+}
