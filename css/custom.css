@@ -71,3 +71,13 @@
 .services-section .single-service .service-icon {
   color: aqua;
 }
+
+
+.info-section .info-content .content-follow li a{
+  font-size: 23px;
+  color: #f3f3f3 !important;
+}
+
+.info-section .info-content .content-follow li a:hover{
+  color: aqua !important;
+}
