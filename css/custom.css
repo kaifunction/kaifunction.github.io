@@ -81,3 +81,8 @@
 .info-section .info-content .content-follow li a:hover{
   color: aqua !important;
 }
+
+
+.testimonials-section .single-review .review-icon{
+  color: aqua;
+}
