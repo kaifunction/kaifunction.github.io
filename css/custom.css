@@ -22,9 +22,6 @@
   letter-spacing: 1.2px;
 }
 
-
-
-
 /* homepage 中间的可变文字 */
 .is-visible {
   color: aqua;
@@ -85,4 +82,33 @@
 
 .testimonials-section .single-review .review-icon{
   color: aqua;
+}
+
+
+
+/* Portfolio page */
+.portfolio-section{
+  display: flex;
+    flex-direction: column;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.portfolio-section .filter-control>li:hover, .portfolio-section .filter-control>li.tab-active{
+  color: aqua;
+}
+
+.portfolio-section .filter-control>li:hover:before, .portfolio-section .filter-control>li.tab-active:before{
+  background-color: aqua;
+}
+
+.portfolio-section .portfolio-grid .portfolio-wrapper .item-content .content-more {
+  color: aqua;
+}
+a:not(.btn){
+  color: aqua;
+}
+
+:root {
+  --custom: aqua;
 }
