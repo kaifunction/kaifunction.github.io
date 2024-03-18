@@ -112,3 +112,41 @@ a:not(.btn){
 :root {
   --custom: aqua;
 }
+
+
+/* Resume page */
+.resume-section .resume-item .item-arrow:before {
+  background-color: aqua;
+}
+
+.resume-section .resume-item .item-arrow:after{
+  border-left-color: aqua;
+}
+
+.resume-section .resume-item{
+  border-left: 2px solid aqua;
+}
+
+.skills-section .single-skill .skill-progress .progress-bar{
+  background-color: aqua;
+}
+
+
+.btn.button-scheme{
+  background-color: aqua !important;
+  color: #000000 !important;
+  font-weight: 600;
+  border: 1px solid aqua;
+}
+
+.btn.button-scheme:hover{
+  background-color: #fff !important;
+  color: rgb(0, 0, 0) !important;
+  border: 1px solid #e6e6e6 !important;
+}
+
+
+/* Contact page */
+.contact-section .contact-info .list-info .info-icon i{
+  color: aqua;
+}
