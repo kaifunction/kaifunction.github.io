@@ -150,3 +150,15 @@ a:not(.btn){
 .contact-section .contact-info .list-info .info-icon i{
   color: aqua;
 }
+
+
+.lightbox-wrapper .lightbox-content .section-heading>.section-title {
+  display: inline-block;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -0.25px;
+  line-height: 100%;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 9;
+}
